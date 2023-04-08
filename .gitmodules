@@ -1,0 +1,3 @@
+[submodule "tcpip"]
+	path = tcpip
+	url = https://github.com/lsst-ts/ts_labview_tcp_json.git
